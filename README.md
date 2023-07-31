@@ -4,4 +4,4 @@
 
 Pokémon is a Japanese media franchise created by Satoshi Tajiri, consisting of video games, television series and films, trading cards, and various other media.
 
-View Live [https://pokemon.vercel.app](https://pokemon.vercel.app)
+View Live [https://pokemon-omega-nine.vercel.app](https://pokemon-omega-nine.vercel.app/)
